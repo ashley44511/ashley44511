@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Ashley Maurer, a sophomore at the University of Florida. I'm currently learning about web development, game development, JavaScript, Python, and C++.
+### Email: ashleyemaurer@gmail.com or ashley.maurer@ufl.edu
 
 <!--
 **ashley44511/ashley44511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
