@@ -1,17 +1,17 @@
 ### Hi I'm Ashley Maurer, a sophomore at the University of Florida. I'm currently learning about web development, game development, JavaScript, Python, and C++.
 ### Email: ashleyemaurer@gmail.com or ashley.maurer@ufl.edu
 ## Design Team Projects:
-### github.com/ashley44511/ThemeParkEngineeringAndDesign
-### github.com/ashley44511/HandwritingHelper
+### https://github.com/ashley44511/ThemeParkEngineeringAndDesign
+### https://github.com/ashley44511/HandwritingHelper
 ## Web Development Projects:
-## AIDAM Molecule Database Website: (currently private repositories) github.com/Liu-Group-UF/adaimwebsite; github.com/Liu-Group-UF/research; https://github.com/Liu-Group-UF/research-app
+### AIDAM Molecule Database Website: (currently private repositories) github.com/Liu-Group-UF/adaimwebsite; github.com/Liu-Group-UF/research; github.com/Liu-Group-UF/research-app
 ## Python Projects:
-### github.com/ashley44511/sudoku
-### github.com/ashley44511/imageReader
-### github.com/ashley44511/pakudex
+### https://github.com/ashley44511/sudoku
+### https://github.com/ashley44511/imageReader
+### https://github.com/ashley44511/pakudex
 ## Technical Writing:
-### github.com/ashley44511/Y2KFailureAnalysis
-### github.com/ashley44511/schedulingToolResearchProject
+### https://github.com/ashley44511/Y2KFailureAnalysis
+### https://github.com/ashley44511/schedulingToolResearchProject
 
 
 <!--
