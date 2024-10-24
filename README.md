@@ -1,4 +1,4 @@
-### Hi I'm Ashley Maurer, a sophomore at the University of Florida. I'm currently learning about web development, game development, JavaScript, Python, and C++.
+### Hi I'm Ashley Maurer, a senior at the University of Florida. I'm currently learning about web development, game development, JavaScript, Python, and C++.
 ### Email: ashleyemaurer@gmail.com or ashley.maurer@ufl.edu
 ### Design Team Projects:
 #### https://github.com/ashley44511/ThemeParkEngineeringAndDesign
