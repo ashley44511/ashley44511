@@ -11,14 +11,14 @@
 
 # Project Links
 ### Design Team and Hackathon Projects:
-#### github.com/ashley44511/contactusai
+#### https://github.com/ashley44511/contactusai
 #### https://github.com/ashley44511/ThemeParkEngineeringAndDesign
 #### https://github.com/ashley44511/HandwritingHelper
 ### Web Development Projects:
 #### AIDAM Molecule Database Website: (currently private repositories) github.com/Liu-Group-UF/adaimwebsite; github.com/Liu-Group-UF/research; github.com/Liu-Group-UF/research-app
-#### github.com/ashley44511/Group2-SWE-project
+#### https://github.com/ashley44511/Group2-SWE-project
 ### Unity Game Design Projects:
-#### github.com/ashley44511/SeniorProject
+#### https://github.com/ashley44511/SeniorProject
 ### C++ Projects:
 #### https://github.com/ashley44511/minesweeper
 #### https://github.com/ashley44511/ImageProcessor
