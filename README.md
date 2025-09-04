@@ -7,7 +7,7 @@
 
 ## University of Florida, Gainesville, FL  – Bachelor of Science in Computer Science	
 ### August 2022 – May 2025
-### GPA 3.96/4.00
+### GPA 3.97/4.00
 
 # Project Links
 ### Design Team and Hackathon Projects:
