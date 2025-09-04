@@ -1,4 +1,4 @@
-# Hi I'm Ashley at UF!
+# Hi I'm Ashley, a recent graduate from the University of Florida!
 ### ashleyemaurer@gmail.com
 ### https://linkedin.com/in/ashley-maurer-ashley44511
 ### https://github.com/ashley44511
